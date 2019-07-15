@@ -1,5 +1,7 @@
 ## flutterwave--node-cli-card-payment
 
+
+
 #Running the App
 1. Clone the repo
 
@@ -15,6 +17,9 @@
 4. run ``npm install`` <br>
 
 5. execute the app by typing  `` node src/app.js  `` on your cli/terminal hit enter<br>
+
+ Test Card available [here](https://github.com/Flutterwave/ravepay-nodejs/blob/master/Readme.md#card-charge
+) 
 
 
 
