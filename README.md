@@ -21,7 +21,7 @@
  Test Card available [here](https://github.com/Flutterwave/ravepay-nodejs/blob/master/Readme.md#card-charge
 ) 
 
-
+## NOTE If you use the Test Card the payment will not be successfull, because we are using live Rave PUBLICK_KEY and SECRET_KEY . but you should see a decline transaction on your  dashboard.
 
 
 
